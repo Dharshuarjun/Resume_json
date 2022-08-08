@@ -1,0 +1,83 @@
+{
+"basics":{
+    "name":"Dhanalakshmi",
+    "label":"web Developer",
+    "image":"https://www.amazon.com/artinfoapps-3D-Doll-Wallpapers-2019/dp/B07WZ7WJTX",
+    "summary":"I'm a full stack web developer",
+    "email":"dhanalakshm77@gmail.com",
+    "location":{
+        "city":"Chennai",
+        "countrycode":"IN"
+    },
+    "profiles":[
+        {
+            "url":"https://github.com/Dharshuarjun",
+            "username":"dharshuarjun",
+            "network":"github"
+        }
+    ]
+},
+"education":[
+    {
+        "endDate":"12-5-2013",
+        "startDate":"13-9-2009",
+        "area":"Electronics and communication Engineering",
+        "studyType":"Bachelors",
+        "institution":"Mahendra Engineering College",
+        "Location":"Namakkal"
+    
+    }
+],
+"skills":[
+    {
+        "keywords":["HTML","CSS","JS","React"],
+        "level":"Junior",
+        "name":"Frontend"
+    },
+    {
+        "keywords":["Node"],
+        "level":"Junior",
+        "name":"Backend"
+    },
+    {
+        "keywords":["MySQL","MongoDB"],
+        "level":"Junior",
+        "name":"Database"
+    }
+],
+"Projects":[
+    {
+        "title":"Youtube-clone"
+    },
+    {
+        "title":"Rental Application"
+    }
+],
+"awards":[
+    {
+        "title":"Most valuable player"
+
+    }
+],
+"work":[
+    {
+        "website":"https://www.mobiusservices.com/",
+        "name":"Mobius Knowledge Services",
+        "location":"Chennai",
+        "Position":"Senior Knowledge Specialist",
+        "StartDate":"31-03-2014",
+        "EndDate":"28-01-2015"
+    }
+],
+"Interests":[
+    {
+        "name":"Music"
+    },
+    {
+        "name":"Reading"
+    },
+    {
+        "name":"programming"
+    }
+]
+}
